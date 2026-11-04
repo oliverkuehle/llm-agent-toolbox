@@ -67,7 +67,7 @@ A note with my own summary or opinion of external material gets the group of the
 | `locations` | `"[[Link]]"` to where something was written or happened                       |
 | `date`      | `YYYY-MM-DD`                                                                  |
 
-- **Key order:** `aliases, groups, parents, attendees, authors, sources, quote, locations, date`, then any others alphabetically.
+- **Key order:** `aliases, groups, parents, attendees, authors, sources, quote, locations, date`, then for published notes `title, slugs, published, ongoing`, then any others alphabetically.
 - **Lists** are multi-line YAML arrays with values sorted alphabetically. Links in frontmatter are quoted.
 - The Linter plugin enforces this when a note is saved in Obsidian, but write it correctly anyway.
 - **Templates:** are in `/Templates`.
@@ -102,7 +102,6 @@ Notes with `published: true` go live on oliverkuehle.de within seconds.
 
 - **Never publish on your own.** Don't set `published: true` or change `slugs` unless asked.
 - **Never publish anything from `private notes`.**
-- **Before renaming a published note,** add its current slug to `slugs`, so its URL keeps working.
 
 When asked to publish a note or prepare it for the site, first read `publishing.md` in this skill's directory.
 
