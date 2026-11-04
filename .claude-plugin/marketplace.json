@@ -9,6 +9,16 @@
   },
   "plugins": [
     {
+      "name": "obsidian-personal",
+      "source": "./plugins/obsidian-personal",
+      "description": "Tools for a personal Obsidian vault: structure and conventions, publishing, and suggesting parents (topic notes)."
+    },
+    {
+      "name": "obsidian-work",
+      "source": "./plugins/obsidian-work",
+      "description": "Tools for a work-related Obsidian vault: structure and conventions, and suggesting parents (topic notes)."
+    },
+    {
       "name": "zotero",
       "source": "./plugins/zotero",
       "description": "Read and manage a Zotero library from the shell with zotero-cli."

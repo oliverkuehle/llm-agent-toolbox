@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-work",
+  "version": "1.0.0",
+  "description": "Tools for a work-related Obsidian vault: structure and conventions, and suggesting parents (topic notes).",
+  "author": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  }
+}

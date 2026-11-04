@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-personal",
+  "version": "1.0.0",
+  "description": "Tools for a personal Obsidian vault: structure and conventions, publishing, and suggesting parents (topic notes).",
+  "author": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  }
+}
