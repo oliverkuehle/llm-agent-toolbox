@@ -1,0 +1,17 @@
+{
+  "name": "llm-agent-toolbox",
+  "owner": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  },
+  "metadata": {
+    "description": "Skills and instructions for Claude Code by Oliver Kühle."
+  },
+  "plugins": [
+    {
+      "name": "zotero",
+      "source": "./plugins/zotero",
+      "description": "Read and manage a Zotero library from the shell with zotero-cli."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "zotero",
+  "version": "1.0.0",
+  "description": "Read and manage a Zotero library from the shell with zotero-cli.",
+  "author": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  }
+}
