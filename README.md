@@ -11,12 +11,13 @@ Currently this repo is setup as a [Claude Code plugin marketplace](https://code.
 | `obsidian-personal` | `obsidian-vault`, `obsidian-parents` | My personal Obsidian vault                |
 | `obsidian-work`     | `obsidian-vault`, `obsidian-parents` | My work Obsidian vault                    |
 | `zotero`            | `zotero-cli`                         | My Zotero library                         |
+| `global-memory`     | none (SessionStart hook)             | Memory shared across all projects         |
 
 ## Install
 
 ```
 /plugin marketplace add https://git.oliverkuehle.de/oliverkuehle/llm-agent-toolbox.git
-/plugin install zotero@llm-agent-toolbox
+/plugin install <plugin>@llm-agent-toolbox
 ```
 
 ## Update

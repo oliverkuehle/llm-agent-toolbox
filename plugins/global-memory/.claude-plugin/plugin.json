@@ -1,0 +1,9 @@
+{
+  "name": "global-memory",
+  "version": "0.1.0",
+  "description": "A memory shared across all projects: one file, loaded into every session, that Claude adds to as it learns about you.",
+  "author": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  }
+}

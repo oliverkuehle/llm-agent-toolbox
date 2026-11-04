@@ -22,6 +22,11 @@
       "name": "zotero",
       "source": "./plugins/zotero",
       "description": "Read and manage a Zotero library from the shell with zotero-cli."
+    },
+    {
+      "name": "global-memory",
+      "source": "./plugins/global-memory",
+      "description": "A memory shared across all projects: one file, loaded into every session, that Claude adds to as it learns about you."
     }
   ]
 }
