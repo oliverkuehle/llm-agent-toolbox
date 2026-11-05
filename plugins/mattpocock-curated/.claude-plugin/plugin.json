@@ -1,0 +1,9 @@
+{
+  "name": "mattpocock-curated",
+  "version": "1.0.0",
+  "description": "A small selection of Matt Pocock's skills: wait-what, teach, grilling, chief-of-staff, code-review and implement-spec.",
+  "author": {
+    "name": "Oliver Kühle",
+    "email": "hello@oliverkuehle.de"
+  }
+}

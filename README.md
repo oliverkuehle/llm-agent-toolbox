@@ -12,6 +12,7 @@ Currently this repo is setup as a [Claude Code plugin marketplace](https://code.
 | `obsidian-work`     | `obsidian-vault`, `obsidian-parents` | My work Obsidian vault                    |
 | `zotero`            | `zotero-cli`                         | My Zotero library                         |
 | `global-memory`     | none (SessionStart hook)             | Memory shared across all projects         |
+| `mattpocock-curated` | `wait-what`, `teach`, `grilling`, `chief-of-staff`, `code-review`, `implement-spec` | A selection of [Matt Pocock's skills](https://github.com/mattpocock/skills) (see its `CREDITS.md`) |
 
 ## Install
 
@@ -45,3 +46,7 @@ plugins/<plugin>/
 ## Contributing
 
 `obsidian-parents` and its `topic_index.js` are identical in both Obsidian plugins. Change them in both. The script runs via `obsidian eval`, so Obsidian must be running.
+
+## License
+
+[MIT](LICENSE). Third-party skills keep their own license and credits, see each plugin's `CREDITS.md`.

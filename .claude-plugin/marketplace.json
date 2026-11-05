@@ -27,6 +27,11 @@
       "name": "global-memory",
       "source": "./plugins/global-memory",
       "description": "A memory shared across all projects: one file, loaded into every session, that Claude adds to as it learns about you."
+    },
+    {
+      "name": "mattpocock-curated",
+      "source": "./plugins/mattpocock-curated",
+      "description": "A small selection of Matt Pocock's skills: wait-what, teach, grilling, chief-of-staff, code-review and implement-spec."
     }
   ]
 }
