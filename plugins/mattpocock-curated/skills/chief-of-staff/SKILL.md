@@ -46,13 +46,6 @@ The wiki is a historical record. It never claims to describe how things are now,
 - Never write "currently", "now" or "is" about code without a date or commit beside it.
 - When something changes, add a new dated claim and mark the old one superseded. Don't rewrite the old one.
 
-## Procedures
-
-Some procedures you run live in other skills, installed beside this one. To run one, read its `SKILL.md` at the path below, relative to this skill's directory, and follow it.
-
-- **Retro** (`../retro/SKILL.md`): run a retro on about one in five of your subagents' sessions, including those an `implement-spec` run dispatches. Pick first the ones where something went wrong. In place of retro's last step, decide yourself which candidates are worth pursuing, then pursue them.
-- **Large chunks of work**: write a spec with `../to-spec/SKILL.md`, break it into tickets with `../to-tickets/SKILL.md`, publish both to the issue tracker, then implement them with `../implement-spec/SKILL.md`.
-
 ## Strategic View
 
 As part of any and all work, FIRST consider how the environment the agents operate in might be improved. Agents thrive in the **pit of success**:

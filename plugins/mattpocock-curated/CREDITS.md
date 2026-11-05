@@ -12,7 +12,7 @@ copied at commit `4ae2317ddb22b046e26455e4f9c9b3aaaf62212d` (fetched 2026-11-05)
 | code-review | `skills/engineering/code-review` |
 | implement-spec | `skills/engineering/implement-spec` |
 
-The Markdown files are copied unchanged. The Codex-only `agents/openai.yaml` files are left out.
+The Codex-only `agents/openai.yaml` files are left out. The Markdown files are copied unchanged, except for references to skills that are not copied and references to an external issue tracker.
 
 ## License
 
